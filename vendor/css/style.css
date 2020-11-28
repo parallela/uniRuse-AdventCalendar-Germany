@@ -1,0 +1,76 @@
+body {
+    background: url(../img/bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.img_v {
+    width: 150px;
+    height: 150px;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.calendar {
+    background-image: url('https://c.wallhere.com/photos/ef/9a/1920x1200_px_christmas_Santa_Santa_Claus_snow_winter-794071.jpg!d');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width: 800px;
+    margin: 40px auto 0 auto;
+    box-shadow: 4px 5px 11px #000000;
+    border-radius: 5px;
+}
+
+.box {
+    height: 80px;
+    width: 80px;
+    border: 2px solid white;
+    color: white;
+    margin: 57px auto 0 auto;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.box:hover {
+    color: rgb(193, 193, 193);
+    border-color: rgb(193, 193, 193);
+}
+
+.task {
+    background-image: url('https://cdn.pixabay.com/photo/2014/04/30/00/37/border-334674_960_720.png');
+    background-size: 800px 500px;
+    border-radius: 5px;
+    min-height: 500px;
+    width: 710px;
+    margin-top: 57px;
+    margin-left: 45px;
+    background-color: white;
+    position: absolute;
+    animation: show 1s;
+    text-align: center;
+    padding: 40px 50px 50px 50px;
+    color: #393737;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+
+@keyframes show {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+a {
+    color: rgb(0, 155, 75);
+}
+
+a:hover {
+    color: rgb(0, 213, 103);
+}
