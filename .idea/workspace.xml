@@ -11,28 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032adf57-b258-4098-908e-6fb328af3ba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uni-ruse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-sources.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/fancyboxes.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/mdb.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/js/fancyboxes.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/js/snow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/photoswipe/default-skin/default-skin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/photoswipe/default-skin/default-skin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/photoswipe/default-skin/default-skin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/photoswipe/default-skin/preloader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/photoswipe/photoswipe-ui-default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/photoswipe/photoswipe-ui-default.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/photoswipe/photoswipe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/photoswipe/photoswipe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/photoswipe/photoswipe.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +53,7 @@
       <workItem from="1606501064111" duration="11866000" />
       <workItem from="1606561783436" duration="114000" />
       <workItem from="1606562686933" duration="549000" />
-      <workItem from="1606563863821" duration="558000" />
+      <workItem from="1606563863821" duration="1576000" />
     </task>
     <servers />
   </component>
