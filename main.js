@@ -1,4 +1,7 @@
 const {app, BrowserWindow, screen} = require('electron')
+const path = require('path');
+const url = require('url')
+
 
 
 function createWindow() {
@@ -8,11 +11,15 @@ function createWindow() {
         webPreferences: {
             nodeIntegration: true
         },
-        // icon: "";
+        icon: __dirname+"/64.ico"
     })
 
-    win.loadFile('index.html')
-    // win.webContents.openDevTools()
+    win.loadURL(url.format({
+        pathname: path.join(__dirname, 'index.html'),
+        protocol: 'file:',
+        slashes: true
+    }));
+
     win.removeMenu();
 }
 

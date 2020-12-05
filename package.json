@@ -1,38 +1,73 @@
 {
-  "name": "uni-ruse",
+  "name": "AdvCalendarRuse",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron-forge start",
     "package": "electron-forge package",
-    "make": "electron-forge make"
+    "make": "electron-forge make",
+    "build-in": "electron-builder"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Advent calendar",
+    "Christmas",
+    "Uni",
+    "Ruse",
+    "Angel Kanchev"
+  ],
+  "author": "Lubomri Stankov",
   "license": "ISC",
-  "description": "",
+  "description": "Digital calendar for german competition",
+  "build": {
+    "appId": "me.lstankov.advcalr",
+    "icon": "vendor/icon.png",
+    "win": {
+      "icon": "vendor/icon.png",
+      "target": [
+        "nsis"
+      ],
+      "publisherName": "Lubomir Stankov"
+    },
+    "linux": {
+      "icon": "vendor/icon.png",
+      "target": [
+        "pacman"
+      ]
+    }
+  },
+  "nsis": {
+    "installerIcon": "vendor/icon.png",
+    "uninstallDisplayName": "Uni-ruse Adv. Calendar",
+    "oneClick": false
+  },
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.54",
     "@electron-forge/maker-deb": "^6.0.0-beta.54",
     "@electron-forge/maker-rpm": "^6.0.0-beta.54",
     "@electron-forge/maker-squirrel": "^6.0.0-beta.54",
     "@electron-forge/maker-zip": "^6.0.0-beta.54",
-    "electron": "^11.0.3"
+    "electron": "^11.0.3",
+    "electron-builder": "^22.9.1",
+    "electron-packager": "^15.2.0"
   },
   "dependencies": {
     "@fancyapps/fancybox": "^3.5.7",
     "electron-squirrel-startup": "^1.0.0",
-    "jquery": "^3.5.1"
+    "jquery": "^3.5.1",
+    "mammoth": "^1.4.14",
+    "read-directory": "^3.0.2"
   },
   "config": {
     "forge": {
-      "packagerConfig": {},
+      "packagerConfig": {
+        "icon": "vendor/icon.png"
+      },
       "makers": [
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "uni_ruse"
+            "name": "AdvCalendar-Ruse"
           }
         },
         {

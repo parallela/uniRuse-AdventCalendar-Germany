@@ -11,8 +11,335 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032adf57-b258-4098-908e-6fb328af3ba5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/AdvCalendarRuse.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/LICENSES.chromium.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/Squirrel.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/chrome_100_percent.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/chrome_200_percent.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/d3dcompiler_47.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/ffmpeg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/libEGL.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/libGLESv2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/am.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/ar.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/bg.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/bn.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/ca.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/cs.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/da.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/de.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/el.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/en-GB.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/en-US.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/es-419.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/es.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/et.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/fa.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/fi.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/fil.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/fr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/gu.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/he.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/hi.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/hr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/hu.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/id.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/it.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/ja.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/kn.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/ko.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/lt.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/lv.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/ml.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/mr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/ms.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/nb.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/nl.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/pl.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/pt-BR.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/pt-PT.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/ro.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/ru.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/sk.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/sl.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/sr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/sv.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/sw.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/ta.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/te.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/th.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/tr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/uk.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/vi.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/zh-CN.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/locales/zh-TW.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/.idea/uni-ruse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/project-sources.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/css/fancyboxes.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/css/mdb.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/font/roboto/Roboto-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/1/1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/1/1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/1/1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/1/1_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/10/10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/10/10_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/10/10_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/10/10_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/11/11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/11/11_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/11/11_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/11/11_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/12/12.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/12/12_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/12/12_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/12/12_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/13/13.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/13/13_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/13/13_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/13/13_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/14/14.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/14/14_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/14/14_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/14/14_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/15/15.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/15/15_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/15/15_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/15/15_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/16/16.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/16/16_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/16/16_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/16/16_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/17/17.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/17/17_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/17/17_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/17/17_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/18/18.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/18/18_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/18/18_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/18/18_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/19/19.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/19/19_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/19/19_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/19/19_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/2/2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/2/2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/2/2_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/2/2_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/20/20.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/20/20_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/20/20_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/20/20_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/21/21.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/21/21_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/21/21_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/21/21_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/22/22.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/22/22_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/22/22_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/22/22_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/23/23.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/23/23_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/23/23_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/23/23_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/24/24.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/24/24_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/24/24_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/24/24_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/3/3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/3/3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/3/3_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/3/3_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/4/4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/4/4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/4/4_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/4/4_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/5/5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/5/5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/5/5_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/5/5_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/6/6.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/6/6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/6/6_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/6/6_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/7/7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/7/7_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/7/7_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/7/7_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/8/8.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/8/8_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/8/8_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/8/8_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/9/9.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/9/9_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/9/9_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/img/dates/9/9_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/js/fancyboxes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/js/mdb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/js/snow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/photoswipe/default-skin/default-skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/photoswipe/default-skin/default-skin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/photoswipe/default-skin/default-skin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/photoswipe/default-skin/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/photoswipe/photoswipe-ui-default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/photoswipe/photoswipe-ui-default.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/photoswipe/photoswipe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/photoswipe/photoswipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/resources/app/vendor/photoswipe/photoswipe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/snapshot_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/swiftshader/libEGL.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/swiftshader/libGLESv2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/v8_context_snapshot.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/vk_swiftshader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/vk_swiftshader_icd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/AdvCalendarRuse-win32-x64/vulkan-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/1/1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/1/1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/1/1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/1/1_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/10/10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/10/10_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/10/10_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/10/10_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/11/11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/11/11_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/11/11_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/11/11_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/12/12.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/12/12_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/12/12_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/12/12_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/13/13.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/13/13_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/13/13_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/13/13_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/14/14.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/14/14_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/14/14_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/14/14_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/15/15.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/15/15_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/15/15_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/15/15_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/16/16.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/16/16_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/16/16_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/16/16_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/17/17.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/17/17_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/17/17_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/17/17_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/18/18.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/18/18_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/18/18_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/18/18_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/19/19.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/19/19_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/19/19_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/19/19_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/2/2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/2/2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/2/2_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/2/2_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/20/20.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/20/20_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/20/20_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/20/20_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/21/21.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/21/21_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/21/21_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/21/21_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/22/22.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/22/22_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/22/22_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/22/22_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/23/23.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/23/23_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/23/23_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/23/23_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/24/24.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/24/24_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/24/24_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/24/24_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/3/3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/3/3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/3/3_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/3/3_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/4/4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/4/4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/4/4_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/4/4_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/5/5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/5/5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/5/5_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/5/5_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/6/6.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/6/6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/6/6_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/6/6_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/7/7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/7/7_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/7/7_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/7/7_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/8/8.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/8/8_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/8/8_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/8/8_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/9/9.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/9/9_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/9/9_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/img/dates/9/9_3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +367,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lubom\Projects\Desktop\uni-ruse\vendor" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -54,6 +387,8 @@
       <workItem from="1606561783436" duration="114000" />
       <workItem from="1606562686933" duration="549000" />
       <workItem from="1606563863821" duration="1576000" />
+      <workItem from="1606915515447" duration="30764000" />
+      <workItem from="1607203062000" duration="1515000" />
     </task>
     <servers />
   </component>
@@ -76,10 +411,15 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606515654062">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="320" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607017479308">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="320" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.689@0.0.1280.689" timestamp="1607017479308" />
+    <state x="320" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607204590498">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="320" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1606515654062" />
+    <state x="320" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.689@0.0.1280.689" timestamp="1607204590498" />
     <state x="373" y="0" width="587" height="680" key="find.popup" timestamp="1606511748265">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -88,14 +428,27 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="507" y="207" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1280.680@0.0.1280.680" timestamp="1606501119069" />
-    <state x="297" y="151" key="run.anything.popup" timestamp="1606508294086">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1607169525662">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1606508294086" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1606564407964">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1607169525662" />
+    <state x="303" y="1" width="672" height="687" key="search.everywhere.popup" timestamp="1607203227549">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1920.1.1280.680@0.0.1280.680" timestamp="1606564407964" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1606515108712" />
+    <state x="303" y="1" width="672" height="687" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1607203227549" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vendor/js/app.js</url>
+          <line>151</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
