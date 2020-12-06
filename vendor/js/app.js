@@ -44,7 +44,8 @@ function setupUI() {
 
 // Static variables
 const notOpenMsg = " Все още не може да отворите тази дата 🍫🎅🏼";
-const year = mode === "dev" ? 2000 : new Date().getFullYear();
+const allDaysUnlocked = false;
+const year = mode === "dev" || allDaysUnlocked ? 2000 : new Date().getFullYear();
 
 // We need uniques id's for every modal.
 // So i choose to be the english alphabet.
