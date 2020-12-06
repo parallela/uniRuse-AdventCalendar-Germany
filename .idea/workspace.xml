@@ -11,15 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032adf57-b258-4098-908e-6fb328af3ba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vendor/sounds/bg.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/sounds/open.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-sources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/img/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/img/bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/js/snow.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/js/snow.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +66,7 @@
       <workItem from="1606563863821" duration="1576000" />
       <workItem from="1606915515447" duration="30764000" />
       <workItem from="1607203062000" duration="4367000" />
-      <workItem from="1607250790575" duration="1671000" />
+      <workItem from="1607250790575" duration="6906000" />
     </task>
     <servers />
   </component>
@@ -96,11 +93,11 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="320" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.689@0.0.1280.689" timestamp="1607017479308" />
-    <state x="320" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607270346630">
+    <state x="320" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607274594671">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="320" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1606515654062" />
-    <state x="320" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.689@0.0.1280.689" timestamp="1607270346630" />
+    <state x="320" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.689@0.0.1280.689" timestamp="1607274594671" />
     <state x="373" y="0" width="587" height="680" key="find.popup" timestamp="1606511748265">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -120,16 +117,5 @@
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1920.1.1280.680@0.0.1280.680" timestamp="1606564407964" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1606515108712" />
     <state x="303" y="1" width="672" height="687" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1607247726710" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/vendor/js/app.js</url>
-          <line>165</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

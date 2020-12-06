@@ -1,3 +1,14 @@
+/*
+ * This software is under the MIT license.
+ * Creators: Lubomir Stankov
+ * For: University Of Ruse "Angel Kanchev"
+ *
+ * Website links:
+ * UR "Angel Kanchev": www.uni-ruse.bg
+ * Lubomir Stankov Personal Website: www.lstankov.me
+ *
+ */
+
 const snowMax = 35;
 
 const snowColor = ["#DDD", "#EEE"];

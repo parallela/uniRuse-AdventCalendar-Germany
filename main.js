@@ -1,6 +1,18 @@
-const {app, BrowserWindow, screen} = require('electron')
+/*
+ * This software is under the MIT license.
+ * Creators: Lubomir Stankov
+ * For: University Of Ruse "Angel Kanchev"
+ *
+ * Website links:
+ * UR "Angel Kanchev": www.uni-ruse.bg
+ * Lubomir Stankov Personal Website: www.lstankov.me
+ *
+ */
+const {app, BrowserWindow} = require('electron')
 const path = require('path');
 const url = require('url')
+// The program running mode.
+const mode = require(__dirname+'/config/app');
 
 
 function createWindow() {
@@ -10,7 +22,7 @@ function createWindow() {
         webPreferences: {
             nodeIntegration: true
         },
-        icon: __dirname + "/icon.ico"
+        icon: __dirname + "/vendor/icon.ico"
     })
 
     win.loadURL(url.format({
@@ -18,18 +30,16 @@ function createWindow() {
         protocol: 'file:',
         slashes: true
     }));
-
+    if (mode == "dev") {
+        win.webContents.openDevTools();
+    }
     win.removeMenu();
 }
 
 app.whenReady().then(createWindow)
-
 app.on('window-all-closed', () => {
     if (process.platform !== 'darwin') {
         app.quit()
     }
 })
 
-app.on('activate', () => {
-    createWindow()
-})
