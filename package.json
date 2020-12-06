@@ -39,7 +39,9 @@
   "nsis": {
     "installerIcon": "vendor/icon.png",
     "uninstallDisplayName": "Uni-ruse Adv. Calendar",
-    "oneClick": false
+    "oneClick": true,
+    "deleteAppDataOnUninstall": true,
+    "runAfterFinish": false
   },
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.54",

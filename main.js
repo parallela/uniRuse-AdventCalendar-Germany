@@ -3,15 +3,14 @@ const path = require('path');
 const url = require('url')
 
 
-
 function createWindow() {
-    const {width, height} = screen.getPrimaryDisplay().workAreaSize;
     const win = new BrowserWindow({
-        width, height,
+        width: 1024,
+        height: 720,
         webPreferences: {
             nodeIntegration: true
         },
-        icon: __dirname+"/64.ico"
+        icon: __dirname + "/icon.ico"
     })
 
     win.loadURL(url.format({
@@ -32,7 +31,5 @@ app.on('window-all-closed', () => {
 })
 
 app.on('activate', () => {
-    if (BrowserWindow.getAllWindows().length === 0) {
-        createWindow()
-    }
+    createWindow()
 })

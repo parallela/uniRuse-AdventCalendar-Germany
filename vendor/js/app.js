@@ -1,6 +1,9 @@
 const mode = 'prod';
 
 document.getElementById(`bg-task`).addEventListener("click", hide);
+// Set the volume of the music to 0.2
+const bgmusic = document.getElementById('backgroundAudio');
+bgmusic.volume = 0.2
 
 setTimeout(() => {
     $("#info").modal('toggle');
@@ -13,6 +16,7 @@ setTimeout(() => {
 const mammoth = require("mammoth");
 const path = require('path');
 const fs = require('fs');
+
 
 function getImagesByDate(day) {
     document.getElementById(`images-show${day}`).innerHTML = '';
@@ -32,7 +36,8 @@ function getImagesByDate(day) {
                     </a>
                 </div>
                 `
-            };
+            }
+            ;
         });
     });
 
@@ -56,6 +61,11 @@ function greetings(day) {
             document.getElementById(`pojelanie${day}`).innerHTML = result.value;
         })
         .done();
+}
+
+function openAudio() {
+    const openAudio = document.getElementById('openAudio');
+    openAudio.play();
 }
 
 function setupModals() {
@@ -91,6 +101,7 @@ function a() {
     }
     greetings(1);
     getImagesByDate(1);
+    openAudio();
 }
 
 
@@ -109,6 +120,7 @@ function b() {
     }
     greetings(2);
     getImagesByDate(2);
+    openAudio();
 }
 
 document.getElementById(`3`).addEventListener(`click`, c);
@@ -127,6 +139,7 @@ function c() {
 
     greetings(3);
     getImagesByDate(3)
+    openAudio();
 }
 
 document.getElementById(`4`).addEventListener(`click`, d);
@@ -145,6 +158,7 @@ function d() {
 
     greetings(4);
     getImagesByDate(4)
+    openAudio()
 }
 
 document.getElementById(`5`).addEventListener(`click`, e);
@@ -163,6 +177,7 @@ function e() {
 
     greetings(5);
     getImagesByDate(5)
+    openAudio()
 }
 
 document.getElementById(`6`).addEventListener(`click`, f);
@@ -181,6 +196,7 @@ function f() {
 
     greetings(6);
     getImagesByDate(6)
+    openAudio()
 }
 
 document.getElementById(`7`).addEventListener(`click`, g);
@@ -198,6 +214,7 @@ function g() {
     }
     greetings(7)
     getImagesByDate(7)
+    openAudio()
 }
 
 document.getElementById(`8`).addEventListener(`click`, h);
@@ -215,6 +232,7 @@ function h() {
     }
     greetings(8)
     getImagesByDate(8)
+    openAudio()
 }
 
 document.getElementById(`9`).addEventListener(`click`, i);
@@ -233,6 +251,7 @@ function i() {
 
     greetings(9)
     getImagesByDate(9)
+    openAudio();
 }
 
 document.getElementById(`10`).addEventListener(`click`, j);
@@ -251,6 +270,7 @@ function j() {
 
     greetings(10)
     getImagesByDate(10)
+    openAudio();
 }
 
 document.getElementById(`11`).addEventListener(`click`, k);
@@ -269,6 +289,7 @@ function k() {
 
     greetings(11)
     getImagesByDate(11)
+    openAudio();
 }
 
 document.getElementById(`12`).addEventListener(`click`, l);
@@ -287,6 +308,7 @@ function l() {
 
     greetings(12)
     getImagesByDate(12)
+    openAudio();
 }
 
 document.getElementById(`13`).addEventListener(`click`, m);
@@ -305,6 +327,7 @@ function m() {
 
     greetings(13)
     getImagesByDate(13)
+    openAudio();
 }
 
 document.getElementById(`14`).addEventListener(`click`, n);
@@ -323,6 +346,7 @@ function n() {
 
     greetings(14)
     getImagesByDate(14)
+    openAudio();
 }
 
 document.getElementById(`15`).addEventListener(`click`, o);
@@ -338,7 +362,7 @@ function o() {
         document.getElementById(`bg-task`).style.display = "block";
         document.getElementById(`o`).style.display = "block";
     }
-
+    openAudio();
     greetings(15)
     getImagesByDate(15)
 }
@@ -356,7 +380,7 @@ function p() {
         document.getElementById(`bg-task`).style.display = "block";
         document.getElementById(`p`).style.display = "block";
     }
-
+    openAudio();
     greetings(16)
     getImagesByDate(16)
 }
@@ -374,7 +398,7 @@ function r() {
         document.getElementById(`bg-task`).style.display = "block";
         document.getElementById(`r`).style.display = "block";
     }
-
+    openAudio();
     greetings(17)
     getImagesByDate(17)
 }
@@ -392,7 +416,7 @@ function s() {
         document.getElementById(`bg-task`).style.display = "block";
         document.getElementById(`s`).style.display = "block";
     }
-
+    openAudio();
     greetings(18)
     getImagesByDate(18)
 }
@@ -410,7 +434,7 @@ function t() {
         document.getElementById(`bg-task`).style.display = "block";
         document.getElementById(`t`).style.display = "block";
     }
-
+    openAudio();
     greetings(19)
     getImagesByDate(19)
 }
@@ -428,7 +452,7 @@ function u() {
         document.getElementById(`bg-task`).style.display = "block";
         document.getElementById(`u`).style.display = "block";
     }
-
+    openAudio();
     greetings(20)
     getImagesByDate(20)
 }
@@ -446,7 +470,7 @@ function w() {
         document.getElementById(`bg-task`).style.display = "block";
         document.getElementById(`w`).style.display = "block";
     }
-
+    openAudio();
     greetings(21)
     getImagesByDate(21)
 }
@@ -464,7 +488,7 @@ function x() {
         document.getElementById(`bg-task`).style.display = "block";
         document.getElementById(`x`).style.display = "block";
     }
-
+    openAudio();
     greetings(22)
     getImagesByDate(22)
 }
@@ -482,7 +506,7 @@ function y() {
         document.getElementById(`bg-task`).style.display = "block";
         document.getElementById(`y`).style.display = "block";
     }
-
+    openAudio();
     greetings(23)
     getImagesByDate(23)
 }
@@ -500,7 +524,7 @@ function z() {
         document.getElementById(`bg-task`).style.display = "block";
         document.getElementById(`z`).style.display = "block";
     }
-
+    openAudio();
     greetings(24)
     getImagesByDate(24)
 }
