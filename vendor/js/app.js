@@ -105,10 +105,11 @@ function greetings(day) {
 }
 
 //Open sound effect
-function openAudio() {
-    const openAudio = document.getElementById('openAudio');
-    openAudio.play();
-}
+// Removed by decision.
+// function openAudio() {
+//     const openAudio = document.getElementById('openAudio');
+//     openAudio.play();
+// }
 
 // Setup all of the modals for the greeting.
 function setupModals() {
@@ -138,7 +139,7 @@ function openDay(char, day) {
     if (GivenDate > CurrentDate) {
         alert(notOpenMsg);
     } else {
-        openAudio();
+//         openAudio();
         greetings(day);
         getImagesByDate(day);
 
